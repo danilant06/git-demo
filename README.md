@@ -9,6 +9,9 @@ Text 2
 Text 3
 
 
+# Start git in folder
+git init
+
 # Check tracking and modifed files
 git status
 
@@ -16,5 +19,8 @@ git status
 git add . (Track all files)
 gir add filename.extension
 
-# Send the work
+# Commit changes
 git commit -m "CHANGE INFO MESSAGE" // -m for message 
+
+# Send to the host
+git push
