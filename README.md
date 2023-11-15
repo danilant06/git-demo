@@ -46,6 +46,7 @@ git check out NAME
 # Abort Changes in GIT
 git reset HEAD~1 / Number stands for steps to undo
 
-HELLO!
-
 git rm --cached git-demo
+
+
+# Something else!
